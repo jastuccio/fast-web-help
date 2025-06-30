@@ -1,0 +1,17 @@
+site_name: Freelance Pitch Site
+site_url: https://jastuccio.github.io/freelance-pitch-site
+
+nav:
+  - Home: index.md
+  - Services: services.md
+  - Portfolio: portfolio.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: light blue
+  font:
+    text: Roboto
+    code: Fira Code
