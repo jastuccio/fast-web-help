@@ -1,0 +1,9 @@
+# Python venv (from uv or virtualenv)
+.venv/
+
+# MkDocs build output
+site/
+
+# OS / editor / Obsidian stuff
+.DS_Store
+.obsidian/
