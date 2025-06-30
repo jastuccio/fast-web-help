@@ -136,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -161,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fbb66a8d80e1b8b",
+  "active": "cc265ee08ae67bd4",
   "lastOpenFiles": [
+    "Untitled.md",
     "site/search/search_index.json",
     "site/search",
     "site/services/index.html",
@@ -173,7 +175,6 @@
     "site/contact",
     "site/index.html",
     "site/404.html",
-    "site/sitemap.xml.gz",
     "site/assets/images/favicon.png",
     "docs/contact.md",
     "docs/services.md",

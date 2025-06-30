@@ -1,7 +1,7 @@
 # 📬 Contact Me
 
-Want help with your site or task? Reach out anytime.
+Let's work together. Reach out anytime.
 
-- 📧 Email: joe@yourdomain.com
+- 📧 Email: joe@astucc.io
 - 📅 Book a call: [Calendly link](https://calendly.com/yourname)
 - 📍 Based near Boston, working remote

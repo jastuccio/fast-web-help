@@ -12,4 +12,4 @@ I offer fast, affordable freelance help for small businesses, creatives, and sol
 - Research and data entry
 - Customer messaging setup
 
-Pricing is flexible — quick jobs start at $50.
+Pricing is flexible — quick jobs start at $75.
