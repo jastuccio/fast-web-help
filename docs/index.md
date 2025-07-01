@@ -34,4 +34,4 @@ Check out the [Portfolio](portfolio.md) for recent projects, or [Services](servi
 
 ---
 
-*Fast, personal, and reliable — I keep the tech smooth so you can stay focused.*
+*Fast, personal, and reliable — I handle the tech so you can focus on your business.*
