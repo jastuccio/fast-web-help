@@ -1,5 +1,7 @@
 site_name: Fast Web Help
 site_url: https://jastuccio.github.io/fast-web-help
+repo_name: jastuccio/fast-web-help
+repo_url: https://github.com/jastuccio/fast-web-help
 
 nav:
   - Home: index.md
@@ -8,4 +10,4 @@ nav:
   - Contact: contact.md
 
 theme:
-  name: blacksun
+  name: dracula

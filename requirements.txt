@@ -1,0 +1,3 @@
+mkdocs>=1.5.0
+# Install your local theme in "editable" mode
+# -e ../../blacksun-mkdocs-theme
